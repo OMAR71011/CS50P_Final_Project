@@ -1,6 +1,6 @@
 # Password Strength Checker (CS50P – Projet final)
 
-#### Video Demo: <URL ICI>
+#### Video Demo: https://youtu.be/OnR9qN037zI?si=P4oOR911MM0_RHYH
 
 ## Description
 
